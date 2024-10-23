@@ -38,7 +38,7 @@ This script retrieves the top 1000 papers related to the query from the NASA ADS
 
 `python SciX_Paper_Embeddings.py --query "near-earth asteroids"`
 
-**Output: **Data/near-earth asteroids/near-earth asteroids_embeddings.pkl
+**Output:** Data/near-earth asteroids/near-earth asteroids_embeddings.pkl
 
 This script generates text embeddings for the papers using the OpenAI API.
 Cluster Subtopics
